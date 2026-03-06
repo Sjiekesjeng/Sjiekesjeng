@@ -45,8 +45,8 @@ I'm a passionate **Renewable Development Consultant** with experience in **pytho
 
 ## Get in Touch
 
-- **[E-Mail]**(mailto:nickcurfs@gmail.com)
-- **[LinkedIn]**(https://www.linkedin.com/in/nick-curfs/)
+- [**E-Mail**](mailto:nickcurfs@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/nick-curfs/)
 
 
 </p>
